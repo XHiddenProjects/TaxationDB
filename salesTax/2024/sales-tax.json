@@ -36,7 +36,7 @@
     "Max Local Tax Rate": "6.13%"
   },
   {
-    "State": "California (a)",
+    "State": "California",
     "State Tax Rate": "7.25%",
     "Rank": 1,
     "Avg. Local Tax Rate": "1.601%",
@@ -90,7 +90,7 @@
     "Max Local Tax Rate": "5.00%"
   },
   {
-    "State": "Hawaii (b)",
+    "State": "Hawaii",
     "State Tax Rate": "4.00%",
     "Rank": 40,
     "Avg. Local Tax Rate": "0.500%",
@@ -225,7 +225,7 @@
     "Max Local Tax Rate": "5.88%"
   },
   {
-    "State": "Montana (c)",
+    "State": "Montana",
     "State Tax Rate": "0.00%",
     "Rank": 46,
     "Avg. Local Tax Rate": "0.000%",
@@ -261,7 +261,7 @@
     "Max Local Tax Rate": "0.00%"
   },
   {
-    "State": "New Jersey (d)",
+    "State": "New Jersey",
     "State Tax Rate": "6.625%",
     "Rank": 8,
     "Avg. Local Tax Rate": "-0.024%",
@@ -270,7 +270,7 @@
     "Max Local Tax Rate": "3.31%"
   },
   {
-    "State": "New Mexico (b)",
+    "State": "New Mexico",
     "State Tax Rate": "4.875%",
     "Rank": 34,
     "Avg. Local Tax Rate": "2.742%",
@@ -360,7 +360,7 @@
     "Max Local Tax Rate": "3.00%"
   },
   {
-    "State": "South Dakota (b)",
+    "State": "South Dakota",
     "State Tax Rate": "4.20%",
     "Rank": 39,
     "Avg. Local Tax Rate": "1.911%",
@@ -387,7 +387,7 @@
     "Max Local Tax Rate": "2.00%"
   },
   {
-    "State": "Utah (a)",
+    "State": "Utah",
     "State Tax Rate": "6.10%",
     "Rank": 16,
     "Avg. Local Tax Rate": "1.149%",
@@ -405,7 +405,7 @@
     "Max Local Tax Rate": "1.00%"
   },
   {
-    "State": "Virginia (a)",
+    "State": "Virginia",
     "State Tax Rate": "5.30%",
     "Rank": 31,
     "Avg. Local Tax Rate": "0.471%",
